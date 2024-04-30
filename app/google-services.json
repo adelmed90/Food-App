@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541686249868",
+    "project_id": "food-app-66739",
+    "storage_bucket": "food-app-66739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541686249868:android:b0b1fd487ab07d97efbea9",
+        "android_client_info": {
+          "package_name": "dz.mradel.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsYKzsZBQrfndEiymuF941yzGHFbppN_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
